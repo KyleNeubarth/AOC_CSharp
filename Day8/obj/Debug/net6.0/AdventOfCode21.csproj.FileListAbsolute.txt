@@ -1,0 +1,15 @@
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\bin\Debug\net6.0\AdventOfCode21.exe
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\bin\Debug\net6.0\AdventOfCode21.deps.json
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\bin\Debug\net6.0\AdventOfCode21.runtimeconfig.json
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\bin\Debug\net6.0\AdventOfCode21.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\bin\Debug\net6.0\ref\AdventOfCode21.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\bin\Debug\net6.0\AdventOfCode21.pdb
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.csproj.AssemblyReference.cache
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.AssemblyInfoInputs.cache
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.AssemblyInfo.cs
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\ref\AdventOfCode21.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.pdb
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day8\obj\Debug\net6.0\AdventOfCode21.genruntimeconfig.cache
