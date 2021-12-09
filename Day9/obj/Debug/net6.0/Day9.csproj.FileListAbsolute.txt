@@ -1,0 +1,15 @@
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.csproj.AssemblyReference.cache
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.AssemblyInfoInputs.cache
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.AssemblyInfo.cs
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\bin\Debug\net6.0\Day9.exe
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\bin\Debug\net6.0\Day9.deps.json
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\bin\Debug\net6.0\Day9.runtimeconfig.json
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\bin\Debug\net6.0\Day9.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\bin\Debug\net6.0\ref\Day9.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\bin\Debug\net6.0\Day9.pdb
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\ref\Day9.dll
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.pdb
+C:\Users\Kyle\Projects\AdventOfCode21\AOC_CSharp\Day9\obj\Debug\net6.0\Day9.genruntimeconfig.cache
